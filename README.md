@@ -2,7 +2,7 @@
 
 ![Dashboard Image](src/screenshot/screenshot.jpg)
 
-> [Employee Directory]()
+> [Employee Directory](https://jamtrip7.github.io/employee-directory)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## Description
 
-This is an Budget Tracker. That allows users to enter purchases and increase amounts or decrease amounts as necessary. It then charts those on a graph and show your current balance based on your transactions.
+This is an Employee/User Directory. That allows users to serach for an employee/user to seek out their personal information related to "Name, Location, Phone, Email, Date of Birth".
 
 #### Technologies Used
 
@@ -36,18 +36,16 @@ This is an Budget Tracker. That allows users to enter purchases and increase amo
 - JSX Variables
 - Props
 
-
-
 [Back to Top](#Employee-Directory)
 
 ---
 
 ## How to Use
 
-- 1) Click on link.
-  2) Use Search button to find specific employees based on "Name, Location, Phone, Email, Date of Birth".
-  3) Colored button are interactive with the exception of the images button.
-
+ 1. Click on "Employee Directory" link.
+ 2. Use Search button to find specific employees based on "Name, Location, Phone, Email, Date of Birth".
+ 3. Colored button are interactive with the exception of the images button.
+ 4. Separate information from top to bottom by clicking on any of the colored buttons.
 
 [Back to Top](#Employee-Directory)
 
@@ -71,7 +69,7 @@ This is an Budget Tracker. That allows users to enter purchases and increase amo
 ---
 
 ## License
-![License](https://img.shields.io/badges/License-${response.license}-blue.svg "License Badge")
+![License](https://img.shields.io/badge/license-Free-brightgreen "License Badge")
 
 This is free and unencumbered software released into the public domain.
 
