@@ -29,9 +29,7 @@ This is an Budget Tracker. That allows users to enter purchases and increase amo
 - CSS3
 - JavaScript
 - BootStrap
-- Node.js
 - React
-- Express
 - Moment
 - Create React App
 - JSX
